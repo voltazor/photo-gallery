@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="skin_colors" translatable="false">
+        <item>white</item>
+        <item>medium</item>
+        <item>dark</item>
+        <item>black</item>
+    </string-array>
+
+    <string-array name="bro_type_prefix" translatable="false">
+        <item>jock_</item>
+        <item>brogrammer_</item>
+        <item>gi_</item>
+        <item>preppy_</item>
+        <item>hipster_</item>
+        <item>casual_</item>
+        <item>lumber_</item>
+        <item>fabulous_</item>
+        <item>suited_</item>
+    </string-array>
+
+</resources>

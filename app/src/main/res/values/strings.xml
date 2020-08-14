@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    http://www.dvteclipse.com/documentation/svlinter/How_to_use_special_characters_in_XML.3F.html
+
+    Code	Name	Displayed as
+    &#09;	Horizontal tab	non-printing
+    &#10;	Line feed	non-printing
+    &#13;	Carriage Return	non-printing
+    &#32;	Space	non-printing
+    &#33;	Exclamation mark	!
+    &#34;	Quotation mark	"
+    &#35;	Number sign	#
+    &#36;	Dollar sign	$
+    &#37;	Percent sign	%
+    &#38;	Ampersand	&
+    &#39;	Apostrophe	'
+    &#40;	Left parenthesis	(
+    &#41;	Right parenthesis	)
+    &#42;	Asterisk	*
+    &#43;	Plus sign	+
+    &#44;	Comma	,
+    &#45;	Hyphen	-
+    &#46;	Period	.
+    &#47;	Slash	/
+    &#58;	Colon	:
+    &#59;	Semi-colon	;
+    &#60;	Less than	<
+    &#61;	Equals sign	=
+    &#62;	Greater than	>
+    &#63;	Question mark	?
+    &#64;	At	@
+    &#91;	Left square bracket	[
+    &#92;	Backslash	\
+    &#93;	Right square bracket	]
+    &#94;	Caret	^
+    &#95;	Underscore	_
+    &#96;	Acute accent	`
+    &#123;	Left curly brace	{
+    &#124;	Vertical bar	|
+    &#125;	Right curly brace	}
+    &#126;	Tilde	~
+    -->
+
+    <string name="app_name">Bro</string>
+
+    <string name="facebook_app_id">1685415138357551</string>
+    <string name="mopub_unit_id">4580b1aede5e48fc99cb55591b9b0fca</string>
+    <string name="mopub_unit_test_id">d4a0aba637d64a9f9a05a575fa757ac2</string>
+
+    <!-- Profile Activity -->
+    <string name="profile_title_brofile">Profile</string>
+    <string name="profile_title_stats">Stats</string>
+    <string name="bro_type">Bro Type</string>
+    <string name="about_me">About Me</string>
+    <string name="profile_title_add_info">Additional Info</string>
+    <string name="profile_title_fb_info">Facebook Info</string>
+    <string name="profile_title_insta_photos">Instagram Photos</string>
+    <string name="edit_photos">Edit photos</string>
+    <string name="profile_title_edit_profile">Edit Profile</string>
+
+    <!-- General Labels -->
+    <string name="label_height">Height</string>
+    <string name="label_body_type">Body Type</string>
+    <string name="label_ethnicity">Ethnicity</string>
+    <string name="label_hiv_status">HIV Status</string>
+    <string name="label_looking_for">Looking For</string>
+    <string name="label_continue">Continue</string>
+    <string name="label_save">Save</string>
+    <string name="label_skip">Skip</string>
+    <string name="label_back_to_the_bros">Back to the bros</string>
+
+    <!-- Socials Labels -->
+    <string name="instagram_label">Instagram</string>
+    <string name="facebook_label">Facebook</string>
+    <string name="twitter_label">Twitter</string>
+    <string name="linkedin_label">LinkedIn</string>
+    <string name="whatsapp_label">WhatsApp</string>
+
+    <!-- Socials Dialogs -->
+    <string name="instagram_ok">Okay!</string>
+    <string name="instagram_cancel">Nevermind</string>
+    <string name="facebook_ok">Lets Bro!</string>
+    <string name="facebook_cancel">Cancel</string>
+    <string name="twitter_ok">Yeah</string>
+    <string name="twitter_cancel">Nope</string>
+    <string name="linkedin_ok">Sure!</string>
+    <string name="linkedin_cancel">Ehh</string>
+
+    <string name="instagram_title">Share your BROtastic photos!</string>
+    <string name="facebook_title">Cool with other Bros Facebook Stalking you? </string>
+    <string name="twitter_title">Want to increase your Twitter followers? Let other Bros see your Twitter</string>
+    <string name="linkedin_title">Do you want Bros to judge you by your profession? Awesome!</string>
+
+    <string name="social_dialog_help" formatted="true">Enter your %s user ID</string>
+
+    <string name="edit_link">Edit Link</string>
+    <string name="view_link">View Link</string>
+
+    <string name="block_user">Block User</string>
+    <string name="report_user">Report User</string>
+
+    <!-- Dialog Labels -->
+    <string name="label_ok">OK</string>
+    <string name="label_cancel">Cancel</string>
+
+    <!-- Question default titles -->
+    <string name="title_personality_default">Choose personality question</string>
+    <string name="title_experience_default">Choose experience question</string>
+    <string name="title_dating_default">Choose dating question</string>
+
+    <string name="title_personality_question">Personality question</string>
+    <string name="title_experience_question">Experience question</string>
+    <string name="title_dating_question">Dating question</string>
+
+    <string name="hint_answer">Answer</string>
+
+    <!-- Error messages -->
+    <string name="error_browser_not_found">Browser not found</string>
+    <string name="error_empty_answer">Answer should not be empty</string>
+    <string name="unable_to_process_image">Unable to process the image</string>
+    <string name="unable_to_receive_albums_from_facebook">Unable to receive albums from Facebook</string>
+    <string name="unable_to_receive_photos_from_fb">Unable to receive photos from Facebook</string>
+
+    <string name="feed">Feed</string>
+    <string name="edit_profile">Edit Brofile</string>
+    <string name="browse">Browse</string>
+    <string name="invite_your_bros">Invite your bros</string>
+    <string name="settings">Settings</string>
+    <string name="inbox">Inbox</string>
+    <string name="chat_sync">Chat sync</string>
+    <string name="favorites">Favorites</string>
+    <string name="local_bros">Local Bros</string>
+    <string name="email">Email</string>
+    <string name="text_message">Text message</string>
+
+    <string name="add_social_title">Add social link</string>
+
+    <string name="filter_bros">Filter Bros</string>
+    <string name="thats_all_for_now">That\’s all for now!</string>
+    <string name="feed_footer_description">Try adjusting your search filters\nor checking back later.</string>
+    <string name="mutual_friends">Mutual friends</string>
+    <string name="mutual_likes">Mutual likes</string>
+    <string name="distance">Distance</string>
+    <string name="age_range">Age Range</string>
+    <string name="height_range">Height Range</string>
+    <string name="hide">Hide</string>
+    <string name="show">Show</string>
+    <string name="un_hide">Un-Hide</string>
+    <string name="completed">Completed</string>
+    <string name="looking_for_bros">Looking for Bros…</string>
+
+    <!-- Authenticator Activity-->
+    <string name="dont_worry_we_wont_tell">Don’t worry - We won’t tell your Bros.\nWe don’t post without permission!</string>
+    <string name="by_continuing_you_agree">By continuing, you agree to our</string>
+    <string name="connect_with_fb">Connect With Facebook</string>
+    <string name="non_facebook_sign_up"><u>Non-Facebook Sign Up</u></string>
+    <string name="and">" and "</string>
+    <string name="terms_of_service"><u>Terms of Service</u></string>
+    <string name="privacy_policy"><u>Privacy Policy</u></string>
+    <string name="please_wait">Please wait…</string>
+    <string name="close">Close</string>
+    <string name="contact">Contact</string>
+    <string name="sorry_you_are_female">Sorry! You\'re not eligible to be a Bro! Your gender is set to female. E-mail help@bro.social with questions.</string>
+    <string name="sorry_you_are_under_18">Sorry! You\'re not eligible to be a Bro! You should be at least 18 years old. E-mail help@bro.social with questions.</string>
+    <string name="unable_to_login_via_facebook">Unable to log in via Facebook. E-mail help@bro.social with questions.</string>
+
+    <!-- Bro Type screen -->
+    <string name="bro_type_name_default" translatable="false">Casual Bro</string>
+    <string name="choose_bro_type_header">Choose the bro and skin tone\nthat best represents you</string>
+    <string name="choose_bro_type_skin_tone">Skin\ntone</string>
+    <string name="label_save_bro_type">Save changes</string>
+
+    <!-- User photos. Facebook photos -->
+    <string name="label_upload_photo">Upload Photo</string>
+    <string name="album_photos_of_me">Photos of me</string>
+    <string name="label_facebook_photos">Facebook Photos</string>
+    <string name="loading_albums">Loading albums…</string>
+    <string name="loading_photos">Loading photos…</string>
+    <string name="label_empty_data">No data available</string>
+    <string name="title_crop_photo">Crop Profile Photo</string>
+
+    <!-- Basic Info -->
+    <string name="email_address_required">Email address (required)</string>
+    <string name="email_empty">Email is empty</string>
+    <string name="email_not_valid">Email isn\'t valid</string>
+    <string name="basic_info">Basic Info</string>
+    <string name="filters">Filters</string>
+    <string name="error_location_detect">Unable to detect location</string>
+    <string name="enable_location_detection">Enable location detection</string>
+    <string name="enable">Enable</string>
+
+    <!-- Location Permissions screen-->
+    <string name="enable_locations_in_settings">Enable locations in settings</string>
+    <string name="bro_we_need_your_location">Bro, we need your location!</string>
+    <string name="enable_locations">Enable Locations</string>
+    <string name="location_permission">Location permission</string>
+    <string name="turn_on_location">Turn on location</string>
+    <string name="bro_is_social_app_location">Bro is social app and won\'t work\nwithout your location</string>
+
+    <!-- Daily Bros -->
+    <string name="daily_bros">Daily Bros</string>
+    <string name="daily_bro_info_text">Check out your daily\nBROs, dude!</string>
+    <string name="daily_empty_title">That’s all for today!</string>
+    <string name="daily_empty_message">Check back tomorrow for more\nswipe matches.</string>
+
+    <!-- Wait List -->
+    <string name="wait_list">Waitlist</string>
+    <string name="wait_list_title_first">Unfortunately Bro has not\nreached your city.</string>
+    <string name="wait_list_title_second">In the mean time feel free to get\nyour profile ready and help speed\nup the process by telling your\nbros about Bro, bro.</string>
+    <string name="wait_list_edit_button">Edit profile</string>
+
+    <!-- Invite Bros -->
+    <string name="invite_bros">Invite your Bros</string>
+    <string name="invite_bros_title">Invite your Bros!</string>
+    <string name="invite_bros_message">Sharing is caring, bro. Tell your\nfriends to check Bro on:</string>
+
+    <string name="invite_url">http://broapp.co</string>
+    <string name="invite_sms_wa" formatted="true">Dude. Check out The Bro App! It\'s everything I ever wanted in life. BRO out with me at %s!</string>
+    <string name="invite_email" formatted="true">Dude, Check out The Bro App! It\'s everything I\'ve ever wanted in life. And so much more. I know
+        you want to Bro out with me! Sign up at %s\n\nSincerly,\nYour Bro</string>
+    <string name="invite_email_subject">It\'s BRO Time!</string>
+    <string name="invite_bro_email_send_error">There are no email clients installed.</string>
+    <string name="invite_bro_sms_send_error">There are no sms clients installed.</string>
+    <string name="invite_tw" formatted="true">#ItsBroTime! Bro out on @thebroapp with me! Sign up at %s #bromo #thebroapp #letitbro #bromance</string>
+    <string name="invite_fb_title">Join us, Bro!</string>
+    <string name="google_play_path" formatted="true">https://play.google.com/store/apps/details?id=%s</string>
+    <string name="watsapp_package">com.whatsapp</string>
+    <string name="invite_wa_dialog_title">You don\'t have WatsApp installed on your device</string>
+    <string name="invite_wa_dialog_message">To invite your Bros install WatsApp, please))</string>
+
+    <string name="label_additional_questions">Additional Questions</string>
+    <string name="unexpected_error">Unexpected error</string>
+    <string name="logout">Log Out</string>
+    <string name="internet_connection_unavailable">Internet connection unavailable</string>
+    <string name="saving_profile">Saving profile</string>
+
+    <string name="email_private">Email (private)</string>
+    <string name="failed">Failed</string>
+    <string name="all">All</string>
+    <string name="unread">Unread</string>
+    <string name="delete">Delete</string>
+    <string name="conversation">Conversation</string>
+    <string name="location">Location</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="you_have_been_blocked">You\'ve been blocked for violating Bro\'s Terms of Service. Please contact blocked@bro.social with any questions</string>
+    <string name="mi">" mi"</string>
+    <string name="local_bros_empty_title">Aw man!</string>
+    <string name="local_bros_empty_message">No bros fit your search criteria\nTry adjusting your search filter\nor checking back later</string>
+    <string name="inbox_empty_search_result_message">No chats with Bros fit your search criteria!</string>
+    <string name="inbox_empty_messages_unread">You don\'t have any unread messages, Bro!</string>
+    <string name="inbox_empty_messages_all">Your inbox is empty, Bro!</string>
+    <string name="inbox_empty_hint_message">Start messaging Bros today! Check out Local Bros nearby, match with some Daily Bros, and send some messages!</string>
+    <string name="mark_all_as_read">Mark all as read</string>
+    <string name="undo">UNDO</string>
+    <string name="conversation_removed">Conversation removed</string>
+    <string name="user_fist_bump_you">%s fistbump\'d you</string>
+    <string name="you_fist_bump_user">You fistbump\'d %s</string>
+    <string name="fist_bump">Fist Bump</string>
+    <string name="bro">Bro</string>
+    <string name="you_already_fist_bumped">You\'ve BRO\'d out way too much lately…\nGive your fists some rest for a day or so!</string>
+    <string name="bumped">Bumped</string>
+    <string name="you_sent_fistbump">You\'ve sent fistbump</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_want_fistbump">Do you really want fistbump %s?</string>
+    <string name="nah">Nah</string>
+    <string name="yeah">Yeah!</string>
+    <string name="arrow">arrow</string>
+    <string name="hide_distance">Hide Distance</string>
+    <string name="notifications">Notifications</string>
+    <string name="push_notifications">Push Notifications</string>
+    <string name="list_of_blocked_users">List of blocked users</string>
+    <string name="settings_edit_profile">Edit profile</string>
+    <string name="faq">FAQ</string>
+    <string name="delete_account">Delete account</string>
+    <string name="find_bro_on_social_media">Find Bro on social media</string>
+    <string name="are_u_sure_contact">Are you sure you\'d like to contact us?</string>
+    <string name="user_typing">%s typing…</string>
+    <string name="your_session_has_expired">Your session has expired</string>
+    <string name="unable_to_change_hide_distance">Unable to change setting \"Hide distance\"</string>
+    <string name="bro_you_sure_delete_account">Bro, are you sure you want to delete your account?</string>
+    <string name="we_dont_want_delete">We don\'t want you to delete account by mistake. Please type in \"delete\" to proceed.</string>
+    <string name="input_doesnt_match">Input doesn\'t match</string>
+    <string name="unable_to_perform_deleting">Unable to perform deleting</string>
+    <string name="cannot_refresh_feed_error">Could not refresh feed. Please try again later.</string>
+    <string name="cannot_apply_filters_error">Could not apply filters. Please try again later.</string>
+    <string name="cannot_get_daily_bros_error">Could not get Daily Bros. Please try again later.</string>
+    <string name="notification_new_match">You have a new match, Bro!</string>
+    <string name="notification_user_fist_bump_you">%s sent you a new Firstbump!</string>
+    <string name="notification_user_sent_message">%s sent you a new message</string>
+    <string name="notification_user_sent_photo">%s sent you a photo</string>
+    <string name="notification_user_sent_location">%s sent you a location</string>
+    <string name="my_favorites">My favorites</string>
+    <string name="matches">Matches</string>
+    <string name="oops">Oops!</string>
+    <string name="favorite_out_there"><![CDATA[Your favorite Bros are out there! Go ahead & make some Bro friends!]]></string>
+    <string name="aw_man">Aw man!</string>
+    <string name="have_not_matched">You haven\'t matched with any bros yeat! Check out your Daily Bros and start swiping right. I\'s sure you\'ll be great!</string>
+    <string name="have_no_blocked_users">You haven\'t block any bros!</string>
+    <string name="unable_to_receive_favorites">Unable to receive favorites</string>
+    <string name="sorry">Sorry</string>
+    <string name="you_need_profile_photo_to_use_daily_bros">You need a profile photo to use Daily Bros!</string>
+    <string name="install">Install</string>
+    <string name="nice">Nice</string>
+    <string name="hit_him_up">Hit him up!</string>
+    <string name="back_to_local_bros">Back to local bros</string>
+    <string name="keep_swiping">Keep swiping</string>
+    <string name="match_confetti_text">The feeling\'s mutual, bro!\nWhat are you waiting for?</string>
+    <string name="bromance">Bromance</string>
+    <string name="unblock_user">Unblock user</string>
+    <string name="unable_to_receive_blocked_users">Unable to receive blocked users</string>
+    <string name="block_list">Block list</string>
+    <string name="user_has_been_blocked">The user has been blocked</string>
+    <string name="user_has_been_deleted">User has been deleted</string>
+    <string name="unable_delete_favorite">Unable to delete from favorites</string>
+    <string name="unable_delete_match">Unable to delete from matches</string>
+    <string name="unable_unblock_user">Unable to unblock user</string>
+    <string name="unable_unblock_users">Unable to unblock users</string>
+    <string name="unblock_all">Unblock All</string>
+    <string name="user_blocked_you">User blocked you</string>
+    <string name="drag_photo_to_change">Drag photo to change it</string>
+    <string name="delete_photo">Delete photo</string>
+
+</resources>

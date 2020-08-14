@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <corners
+        android:radius="@dimen/rounded_button_radius"/>
+
+    <padding
+        android:bottom="@dimen/rounded_button_vertical_padding"
+        android:left="@dimen/rounded_button_horizontal_padding"
+        android:right="@dimen/rounded_button_horizontal_padding"
+        android:top="@dimen/rounded_button_vertical_padding"/>
+
+    <stroke android:color="@color/primary" android:width="1dp"/>
+
+</shape>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="bottomsheet_is_tablet">false</bool>
+    <dimen name="bottomsheet_default_sheet_width">0dp</dimen>
+    <integer name="loading_anim_time">1488</integer>
+</resources>

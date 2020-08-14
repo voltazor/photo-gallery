@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#0091EA</color>
+    <color name="primary_dark">#1976d2</color>
+    <color name="accent">#0091EA</color>
+
+    <color name="divider">#E5E5E5</color>
+
+    <color name="drawerProfile">#3dA7E9</color>
+
+    <!-- Base colors -->
+    <color name="background_grey">#E5E5E5</color>
+    <color name="text_grey">#565656</color>
+    <color name="text_grey_light">#9a9a9a</color>
+    <color name="dialog_message">#8a000000</color>
+
+    <color name="orange">#FF8429</color>
+    <color name="violet">#9066E2</color>
+    <color name="lime">#A7DB16</color>
+    <color name="yellow">#EDC72B</color>
+    <color name="pink">#FB69D0</color>
+    <color name="red">#B0021B</color>
+    <color name="blue_dark">#3B5998</color>
+    <color name="blue_light">#4AB3F4</color>
+    <color name="red_light">#FC4444</color>
+
+    <!-- Skin colors -->
+    <color name="skin_white">#F4D4BD</color>
+    <color name="skin_medium">#EDCCB0</color>
+    <color name="skin_dark">#BC967D</color>
+    <color name="skin_black">#7C5240</color>
+
+    <!-- SocialsEnum icons -->
+    <color name="socials_inactive">#ACACAC</color>
+    <color name="socials_active">#FC4444</color>
+
+    <color name="status_bar_semi_transparent">#27000000</color>
+
+    <color name="page_indicator_grey">#D5D5D5</color>
+    <color name="page_indicator_blue">#0091EA</color>
+
+    <color name="loader_background">#d2000000</color>
+
+    <color name="black_semi_transparent">#70000000</color>
+    <color name="black_semi_semi_transparent">#4D000000</color>
+    <color name="icon_grey">#9c9c9c</color>
+
+    <color name="highlight">#644AB3F4</color>
+
+</resources>

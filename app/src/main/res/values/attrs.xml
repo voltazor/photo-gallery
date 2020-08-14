@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StyledText">
+        <attr name="textType" format="enum">
+            <enum name="lato_light" value="0"/>
+            <enum name="lato_regular" value="1"/>
+            <enum name="lato_medium" value="2"/>
+            <enum name="lato_semibold" value="3"/>
+            <enum name="lato_bold" value="4"/>
+            <enum name="lato_black" value="5"/>
+            <enum name="vitesse_medium" value="6"/>
+            <enum name="vitesse_bold" value="7"/>
+            <enum name="vitesse_book" value="8"/>
+        </attr>
+    </declare-styleable>
+
+    <declare-styleable name="PageIndicator">
+        <attr name="radius" format="dimension"/>
+        <attr name="centered" format="boolean"/>
+        <attr name="unselectedColor" format="color"/>
+        <attr name="selectedColor" format="color"/>
+        <attr name="strokeColor" format="color"/>
+        <attr name="strokeWidth" format="dimension"/>
+        <attr name="gapSize" format="dimension"/>
+        <attr name="snap" format="boolean"/>
+        <attr name="android:background"/>
+        <attr name="android:orientation"/>
+    </declare-styleable>
+
+    <declare-styleable name="ExpandableLayout">
+        <attr name="headerId" format="reference"/>
+        <attr name="contentId" format="reference"/>
+        <attr name="opened" format="boolean"/>
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="ParallaxScroll">
+        <attr name="parallax_factor" format="float"/>
+        <attr name="inner_parallax_factor" format="float"/>
+        <attr name="parallax_views_num" format="integer"/>
+    </declare-styleable>
+
+    <declare-styleable name="SwipeDeck">
+        <attr name="max_visible" format="integer"/>
+        <attr name="rotation_degrees" format="float"/>
+        <attr name="card_spacing" format="dimension"/>
+        <attr name="render_above" format="boolean"/>
+        <attr name="render_below" format="boolean"/>
+        <attr name="opacity_end" format="float"/>
+        <attr name="card_gravity" format="enum">
+            <enum name="top" value="0"/>
+            <enum name="center" value="1"/>
+            <enum name="bottom" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
